@@ -65,27 +65,7 @@ Potential improvements include:
 - Model ensembling
 - Advanced time-series techniques
 
----
 
-## Repository Structure
-
-├── data/              # Raw and processed datasets  
-├── notebooks/         # Jupyter notebooks for analysis and modeling  
-├── src/               # Source code and helper functions  
-├── outputs/           # Model predictions and evaluation results  
-└── README.md          # Project documentation
-
----
-
-## How to Run
-
-1. Clone the repository  
-
-2. Install required dependencies
-
-3. Run notebooks in the notebooks directory in order
-
----
 
 ## Author
 
